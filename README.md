@@ -9,5 +9,9 @@
 4. Hybrid : 하나 이상의 추천 알고리즘을 결합해 추천
 
 * 분석 방법 기준
-1. Similarity metrics(correlation, cosine, jaccard, Tanimoto)
-: CF, CB, KB 어디나 기본적으로 사용
+1. Similarity metrics(correlation, cosine, jaccard, Tanimoto): CF, CB, KB 어디나 기본적으로 사용
+2. KNN, MF(Matrix Factorization), SVD ++ : CF에 주로 사용
+3. tfidf, Word2Vec : CB에 주로 사용
+4. Deep Learning : CF, CB, KB 등 어디나 사용 가능
+
+> RS는 각 item에 대한 각 사용자의 예상 선호도를 추정하는 것
