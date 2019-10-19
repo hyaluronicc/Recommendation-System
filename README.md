@@ -15,3 +15,8 @@
 4. Deep Learning : CF, CB, KB 등 어디나 사용 가능
 
 > RS는 각 item에 대한 각 사용자의 예상 선호도를 추정하는 것
+
+# Introduction
+  dddddd
+  ddddddd
+  ddddddd
