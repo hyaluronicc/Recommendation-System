@@ -10,4 +10,5 @@
 
 * 분석 방법 기준
 1. Similarity metrics(correlation, cosine, jaccard, Tanimoto)
-- CF, CB, KB 어디나 기본적으로 사용
+
+CF, CB, KB 어디나 기본적으로 사용
